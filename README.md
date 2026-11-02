@@ -126,4 +126,4 @@ Pro subscribers can manage or cancel their subscription in their [Gumroad librar
 
 ---
 
-<p align="center">Made by <a href="https://github.com/ProsperTechnology">Prosper Technology</a> · AI Space Cleaner is freeware with an optional Pro subscription. This repository hosts releases and documentation.</p>
+<p align="center">Made by <a href="https://github.com/ProsperTechnology">Prosper Technologies</a> · AI Space Cleaner is freeware with an optional Pro subscription. This repository hosts releases and documentation. <a href="https://prospertechnology.github.io/ai-space-cleaner/privacy.html">Privacy policy</a>.</p>
